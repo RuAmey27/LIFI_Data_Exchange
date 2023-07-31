@@ -33,7 +33,7 @@ This repository contains the code and documentation for our first-year engineeri
 1. Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/lifi-data-exchange.git
+git clone https://github.com/your-username/LIFI_Data_Exchange.git
 cd lifi-data-exchange
 ```
 
