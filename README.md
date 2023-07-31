@@ -1,12 +1,12 @@
 # LIFI Data Exchange System
 
-![LIFI Data Exchange System](images/lifi_system.jpg)
+![LIFI Data Exchange System](./lifimodule.jpg)
 
 ## Overview
 
 This repository contains the code and documentation for our first-year engineering exploration lab project, the LIFI Data Exchange System. LIFI, which stands for Light Fidelity, is a wireless communication technology that uses visible light to transmit data. Our system consists of two modules: a transmitter and a receiver, which can exchange data using light waves.
 
-![LIFI System Diagram](images/lifi_system_diagram.jpg)
+![LIFI System Diagram](./lifivideo.mp4)
 
 ## Features
 
