@@ -88,14 +88,13 @@ For any questions, feedback, or collaboration opportunities, feel free to reach 
   - GitHub: [Amey Pande](https://github.com/RuAmey27)
 
 - **Siya Gajbhe** (Contributor)
-  - Email:
+  - Email: siyagajbhe@gmail.com
   -
 
 - **Achal Waypankar** (Contributor)
-  - Email:waypankarachal@gmail.com
+  - Email: waypankarachal@gmail.com
   -
-  
-  - **Sneha Nile** (Contributor)
-  - Email:
+- **Sneha Nile** (Contributor)
+  - Email: snehanile02@gmail.com
   -
 ---
